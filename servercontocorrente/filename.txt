@@ -1,0 +1,1 @@
+{"88c3e908-a396-45a3-9077-5a39f7fdf7c0":{"saldo":5.0,"movimenti":[{"casuale":"primaricarica","transazione":5.0,"status":"positivo"}]}}
